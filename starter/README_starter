@@ -1,0 +1,12 @@
+Files in this folder:
+form.ui
+starter_file.py
+
+To use:
+1. download starter folder
+2. run starter_file.py with python3
+
+Purpose:
+To give a starting location for newcomers to pyqt and qt designer.
+
+To get used to qt designer, open the form.ui file in qt designer, and start exploring the various functionalities of qt designer
